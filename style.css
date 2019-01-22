@@ -1,0 +1,44 @@
+h1 {
+color: teal;
+text-align: center;
+font-size: 75px;
+text-decoration: underline;
+text-underline-position: below;
+}
+
+html {
+    background-color: darkgoldenrod;
+    text-align: center;
+}
+
+friend {
+background-color: chocolate;
+}
+
+h3 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 40px;
+    color: teal;
+}
+
+p {
+font-size: 40px;
+color: teal;
+
+}
+
+#push {
+    color: teal;
+    font-family: cursive;
+    font-size: 25px;
+    background-color: darkgoldenrod;
+    border-style: groove;
+    border-color: teal;
+    border-radius: 25px;
+    border-width: 3px;
+}
+
+#inside {
+size: 25px;
+}
